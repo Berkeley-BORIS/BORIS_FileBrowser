@@ -1,0 +1,3 @@
+Path to images = /Users/emily/Dropbox/filesForTim/sah_walking_campus/
+Starting frame = 15450
+Ending frame = 15500
